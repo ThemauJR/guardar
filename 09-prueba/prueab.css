@@ -1,0 +1,10 @@
+.imagen{
+    width: 350px;
+
+    margin: 0 10px;
+}
+
+.fotito {
+    display: flex;
+    justify-content: center;
+}

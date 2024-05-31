@@ -1,0 +1,41 @@
+.fondo {
+    background-color: blueviolet;
+}
+.Mishus1 {
+    text-align: center; color: #ffffff;
+}
+
+/* fondo */
+
+.gato01 { 
+    width: 200px;
+    height: 200px;
+}
+
+.gato1 {
+    display: flex;
+    justify-content: left;
+}
+/* foto 1 */
+
+.gatogif {
+    width: 500px;
+    height: 500px;
+}
+
+.gato2 {
+    display: flex;
+    justify-content: center;
+}
+/* foto gif */
+
+.gato03 {
+    width: 400px;
+    height: 400px;
+}
+
+.gato3 {
+    display: flex;
+    justify-content: right;
+}
+/* foto 3 */
