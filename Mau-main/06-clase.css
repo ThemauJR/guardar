@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/09/26/16957642774417.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1, h2 {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+
+.local, .visitante {
+    text-align: center; 
+    flex: 1; 
+}
+
+
+.resultado {
+    text-align: center; 
+    flex: 1;
+}
+
+
+.local img, .visitante img {
+    width: 200px; 
+    display: block; 
+    margin: 0 auto 10px;}
